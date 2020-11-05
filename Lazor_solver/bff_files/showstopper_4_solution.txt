@@ -1,0 +1,4 @@
+The following is the solution for showstopper_4 
+B	A	B	
+B	o	A	
+A	o	B	

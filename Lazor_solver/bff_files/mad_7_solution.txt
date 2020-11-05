@@ -1,0 +1,6 @@
+The following is the solution for mad_7 
+o	o	A	o	o	
+o	o	o	A	o	
+A	o	A	o	x	
+o	o	o	A	o	
+o	o	A	o	o	
